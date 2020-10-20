@@ -6,9 +6,12 @@
   "license": "MIT",
   "scripts": {
     "format": "prettier --write \"./zapper.tokenlist.json\"",
-    "process": "node scripts/process.js"
+    "process": "node scripts/process.js",
+    "validate": "node scripts/validate.js"
   },
   "devDependencies": {
+    "@uniswap/token-lists": "^1.0.0-beta.17",
+    "ajv": "^6.12.6",
     "fast-json-stable-stringify": "^2.1.0",
     "husky": "^4.3.0",
     "lint-staged": "^10.4.2",
@@ -23,7 +26,8 @@
   "lint-staged": {
     "zapper.tokenlist.json": [
       "yarn process",
-      "yarn format"
+      "yarn format",
+      "yarn validate"
     ]
   }
 }
