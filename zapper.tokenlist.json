@@ -1695,8 +1695,9 @@
       "symbol": "APE"
     },
     {
-      "address": "0x1d287cc25dad7ccaf76a26bc660c5f7c8e2a05bd",
+      "address": "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85",
       "chainId": 1,
+      "coinGeckoId": "fetch-ai",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Zapper-fi/token-list/master/assets/FET-icon.png",
       "symbol": "FET"
@@ -1709,5 +1710,6 @@
       "logoURI": "https://raw.githubusercontent.com/Zapper-fi/token-list/master/assets/OUSD-icon.png",
       "symbol": "OUSD"
     }
-  ]
+  ],
+  "version": { "major": 1, "minor": 0, "patch": 0 }
 }
