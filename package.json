@@ -2,10 +2,29 @@
   "name": "@zapper-fi/token-list",
   "version": "1.0.0",
   "repository": "git@github.com:Zapper-fi/token-list.git",
-  "author": "Karan Shahani <karan.shahani91@gmail.com>",
+  "author": "Karan Shahani <karan@zapper.fi>",
   "license": "MIT",
-  "dependencies": {
+  "scripts": {
+    "format": "prettier --write \"./zapper.tokenlist.json\"",
+    "process": "node scripts/process.js"
+  },
+  "devDependencies": {
     "fast-json-stable-stringify": "^2.1.0",
-    "lodash": "^4.17.20"
+    "husky": "^4.3.0",
+    "lint-staged": "^10.4.2",
+    "lodash": "^4.17.20",
+    "prettier": "^2.1.2"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "zapper.tokenlist.json": [
+      "yarn format",
+      "yarn process",
+      "git add"
+    ]
   }
 }
