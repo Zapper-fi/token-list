@@ -8,7 +8,8 @@ const json = require('../zapper.tokenlist.json');
 const process = async () => {
   const tokens = json.tokens;
   const sorted = _.sortBy(tokens, t => t.name);
-  fs.writeFileSync('./zapper.tokenlist.json', stringify({ ...json, tokens: sorted }), 'utf-8');
+  const timestamp = new Date().toISOString();
+  fs.writeFileSync('./zapper.tokenlist.json', stringify({ ...json, timestamp, tokens: sorted }), 'utf-8');
 };
 
 process().catch(err => {

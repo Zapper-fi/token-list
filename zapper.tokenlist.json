@@ -2,6 +2,7 @@
   "keywords": ["zapper", "defi"],
   "logoURI": "https://raw.githubusercontent.com/Zapper-fi/token-list/master/assets/zapper.png",
   "name": "Zapper Token List",
+  "timestamp": "2020-10-20T15:19:02.968Z",
   "tokens": [
     {
       "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
@@ -11,14 +12,6 @@
       "logoURI": "https://raw.githubusercontent.com/Zapper-fi/token-list/master/assets/ZRX-icon.png",
       "name": "0x",
       "symbol": "ZRX"
-    },
-    {
-      "address": "0x44b6e3e85561ce054ab13affa0773358d795d36d",
-      "chainId": 1,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Zapper-fi/token-list/master/assets/ARTE-icon.png",
-      "name": "ARTE",
-      "symbol": "ARTE"
     },
     {
       "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
@@ -596,6 +589,15 @@
       "symbol": "cUSDC"
     },
     {
+      "address": "0x34612903db071e888a4dadcaa416d3ee263a87b9",
+      "chainId": 1,
+      "coinGeckoId": "ethart",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Zapper-fi/token-list/master/assets/ARTE-icon.png",
+      "name": "ethArt",
+      "symbol": "ARTE"
+    },
+    {
       "address": "0x607f4c5bb672230e8672085532f7e901544a7375",
       "chainId": 1,
       "coinGeckoId": "iexec-rlc",
@@ -1043,6 +1045,7 @@
     {
       "address": "0x674c6ad92fd080e4004b2312b45f796a192d27a0",
       "chainId": 1,
+      "coinGeckoId": "neutrino",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Zapper-fi/token-list/master/assets/USDN-icon.png",
       "symbol": "USDN"
@@ -1711,5 +1714,5 @@
       "symbol": "OUSD"
     }
   ],
-  "version": { "major": 1, "minor": 0, "patch": 0 }
+  "version": { "major": 1, "minor": 1, "patch": 0 }
 }
