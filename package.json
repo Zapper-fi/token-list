@@ -22,8 +22,8 @@
   },
   "lint-staged": {
     "zapper.tokenlist.json": [
-      "yarn format",
       "yarn process",
+      "yarn format",
       "git add"
     ]
   }
