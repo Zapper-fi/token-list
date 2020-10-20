@@ -2,7 +2,7 @@
   "keywords": ["zapper", "defi"],
   "logoURI": "https://raw.githubusercontent.com/Zapper-fi/token-list/master/assets/zapper.png",
   "name": "Zapper Token List",
-  "timestamp": "2020-10-20T16:46:26.329Z",
+  "timestamp": "2020-10-20T16:48:35.557Z",
   "tokens": [
     {
       "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
@@ -1653,5 +1653,5 @@
       "symbol": "ZZZ"
     }
   ],
-  "version": { "major": 1, "minor": 1, "patch": 0 }
+  "version": { "major": 1, "minor": 0, "patch": 0 }
 }
