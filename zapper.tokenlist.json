@@ -2,7 +2,7 @@
   "keywords": ["zapper", "defi"],
   "logoURI": "https://raw.githubusercontent.com/Zapper-fi/token-list/master/assets/zapper.png",
   "name": "Zapper Token List",
-  "timestamp": "2020-10-20T16:48:35.557Z",
+  "timestamp": "2020-12-19T18:51:27.515Z",
   "tokens": [
     {
       "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
@@ -291,6 +291,14 @@
       "logoURI": "https://raw.githubusercontent.com/Zapper-fi/token-list/master/assets/CREAM-icon.png",
       "name": "Cream",
       "symbol": "CREAM"
+    },
+    {
+      "address": "0xf55bbe0255f7f4e70f63837ff72a577fbddbe924",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Zapper-fi/token-list/master/assets/crBOND-icon.png",
+      "name": "Cream BarnBridge Governance Token",
+      "symbol": "crBOND"
     },
     {
       "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
