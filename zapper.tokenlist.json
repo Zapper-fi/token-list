@@ -229,6 +229,14 @@
       "symbol": "BOT"
     },
     {
+      "address": "0x7d4b8cce0591c9044a22ee543533b72e976e36c3",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Zapper-fi/token-list/master/assets/CAG-icon.png",
+      "name": "Change",
+      "symbol": "CAG"
+    },
+    {
       "address": "0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",
       "chainId": 1,
       "decimals": 18,
