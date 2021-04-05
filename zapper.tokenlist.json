@@ -1501,6 +1501,14 @@
       "symbol": "renBTC"
     },
     {
+      "address": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Zapper-fi/token-list/master/assets/ROUTE-icon.png",
+      "name": "Router Protocol",
+      "symbol": "ROUTE"
+    },
+    {
       "address": "0x17628a557d1fc88d1c35989dcbac3f3e275e2d2b",
       "chainId": 1,
       "decimals": 18,
