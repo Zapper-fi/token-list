@@ -957,6 +957,14 @@
       "symbol": "PPT"
     },
     {
+      "address": "0xEC213F83defB583af3A000B1c0ada660b1902A0F",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Zapper-fi/token-list/master/assets/PRE-icon.png",
+      "name": "Presearch",
+      "symbol": "PRE"
+    },
+    {
       "address": "0xd7b7d3c0bda57723fb54ab95fd8f9ea033af37f2",
       "chainId": 1,
       "decimals": 18,
