@@ -469,6 +469,14 @@
       "symbol": "FOAM"
     },
     {
+      "address": "0x4c25bdf026ea05f32713f00f73ca55857fbf6342",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Zapper-fi/token-list/master/assets/FONT-icon.png",
+      "name": "Font",
+      "symbol": "FONT"
+    },
+    {
       "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
       "chainId": 1,
       "decimals": 18,
