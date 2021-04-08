@@ -789,6 +789,14 @@
       "symbol": "MOON"
     },
     {
+      "address": "0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16",
+      "chainId": 1,
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Zapper-fi/token-list/master/assets/WOLF-icon.png",
+      "name": "Moonwolf",
+      "symbol": "WOLF"
+    },
+    {
       "address": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
       "chainId": 1,
       "decimals": 18,
