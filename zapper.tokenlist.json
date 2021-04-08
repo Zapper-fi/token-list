@@ -133,6 +133,14 @@
       "symbol": "AUC"
     },
     {
+      "address": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Zapper-fi/token-list/master/assets/AUDIO-icon.png",
+      "name": "Audius",
+      "symbol": "AUDIO"
+    },
+    {
       "address": "0x221657776846890989a759ba2973e427dff5c9bb",
       "chainId": 1,
       "decimals": 18,
