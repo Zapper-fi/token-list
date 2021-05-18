@@ -1651,6 +1651,14 @@
       "logoURI": "https://raw.githubusercontent.com/Zapper-fi/token-list/master/assets/ZZZ-icon.png",
       "name": "zzz.finance",
       "symbol": "ZZZ"
+    },
+    {
+      "address": "0xa31b1767e09f842ecfd4bc471fe44f830e3891aa",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Zapper-fi/token-list/master/assets/ROOBEE-icon.png",
+      "name": "roobee.io",
+      "symbol": "ROOBEE"
     }
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
