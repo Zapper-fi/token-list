@@ -1651,7 +1651,15 @@
       "logoURI": "https://raw.githubusercontent.com/Zapper-fi/token-list/master/assets/ZZZ-icon.png",
       "name": "zzz.finance",
       "symbol": "ZZZ"
-    }
+    },
+    {
+      "address": "0x9Df9De5Ed89ADBBd9fa2C14691903A0DE9048A87",
+      "chainId": 56,
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/Zapper-fi/token-list/master/assets/SULFERC-icon.png",
+      "name": "SULFERC",
+      "symbol": "SULFERC"
+    }    
   ],
   "version": { "major": 1, "minor": 0, "patch": 0 }
 }
